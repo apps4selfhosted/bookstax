@@ -4,6 +4,11 @@
 
 <h1 align="center">BookStax</h1>
 
+<p align="center">
+  <strong>An unofficial, independent app for <a href="https://www.bookstackapp.com">BookStack</a>.</strong><br>
+  Not affiliated with, developed, endorsed or reviewed by the maintainers of BookStack.
+</p>
+
 <p align="center"><strong>Your BookStack wiki. On iPhone and iPad.</strong></p>
 
 <p align="center">
@@ -24,8 +29,9 @@
 
 ---
 
-> BookStax is an independent, unofficial community client. It is not part of the official
-> BookStack project — with respect and thanks to the team that builds and maintains it.
+> BookStax is a community project by Sven Hanold. It is not part of the official BookStack
+> project. The name BookStack is used here only to say what this app connects to —
+> with respect and thanks to the people who build and maintain it.
 
 ## Screenshots
 
